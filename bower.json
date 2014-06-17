@@ -1,11 +1,13 @@
 {
-  "name": "jasmine-ajax",
+  "name": "jasmine-ajax-tdg5",
   "version": "2.0.0",
-  "homepage": "https://github.com/pivotal/jasmine-ajax",
+  "homepage": "https://github.com/tdg5/jasmine-ajax",
   "authors": [
-    "JR Boyens <jboyens@fooninja.org>"
+    "JR Boyens <jboyens@fooninja.org>",
+    "Albert Wang <albertw@mit.edu>",
+    "Danny Guinther <dannyguinther@gmail.com>"
   ],
-  "description": "A library for faking Ajax responses in your Jasmine suite.",
+  "description": "Fork of Pivotal library for faking Ajax responses in your Jasmine suite.",
   "main": "lib/mock-ajax.js",
   "dependencies": {
     "jasmine" : "2.0.0"
